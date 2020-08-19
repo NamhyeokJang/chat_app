@@ -1,7 +1,7 @@
 # React Chat App
 ---
 
-간단한 GraphQL을 이용한 예제 
+GraphQL을 이용한 Chat App
 
 ###Get Started
 ---
